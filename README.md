@@ -1,7 +1,6 @@
 ![Abdullah Faqih Ma'ruf](img/github-header-banner.png)
 
 <h2 align="center"><b>About Me 👀</h2>
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=laravel" style="height:20px;" />  I'm Fullstack Developer proficient in laravel<br><img src="https://skillicons.dev/icons?i=rocket" style="height:20px;" />  I want to persue my Software Engineer grade<br><img src="https://skillicons.dev/icons?i=htmx" style="height:20px;" />  Make an efficient features<br><img src="https://skillicons.dev/icons?i=devto" style="height:20px;" />  I have been a programmer for 2 years<br>🎧  Listening to spotify when coding is my booster feeling
 
