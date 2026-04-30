@@ -8,6 +8,12 @@
 
 <hr style="height:10px">
 <h3 align="center"><b>Connect with me</b></h3>
+
+<p align="center">
+    <a href="https://www.instagram.com/faqihh.mr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:7px; margin-right:3px">
+    <a href="https://x.com/faqih4php"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="border-radius:7px; margin-right:3px;">
+    <a href="https://www.tiktok.com/@faqihihihihi"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="border-radius:7px; margin-right:3px;">
+
 <!--
 **faqih4php/faqih4php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
