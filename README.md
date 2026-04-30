@@ -10,9 +10,14 @@
 <h3 align="center"><b>Connect with me</b></h3>
 
 <p align="center">
-    <a href="https://www.instagram.com/faqihh.mr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:7px; margin-right:3px">
-    <a href="https://x.com/faqih4php"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="border-radius:7px; margin-right:3px;">
-    <a href="https://www.tiktok.com/@faqihihihihi"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="border-radius:7px; margin-right:3px;">
+    <a href="https://www.instagram.com/faqihh.mr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:7px; margin-right:1px">
+    <a href="https://x.com/faqih4php"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="border-radius:7px; margin-right:1px;">
+    <a href="https://www.tiktok.com/@faqihihihihi"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="border-radius:7px; margin-right:1px;">
+    <a href="mailto:abdullahfaqihmaruf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:7px; margin-right:1px;">
+    <a href="https://discord.com/users/1158655277919371317"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="border-radius:7px; margin-right:1px;">
+    <br>
+    <a href="https://open.spotify.com/user/316wtxrd2bschhawm2vhlkpjqzem?si=15340120438d4a03"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="border-radius:7px; margin-right:1px;">
+    <a href="https://www.linkedin.com/in/abdullah-faqih-ma-ruf-941a0a380/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:7px; margin-right:1px;">
 
 <!--
 **faqih4php/faqih4php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
