@@ -25,7 +25,7 @@
 <h3 align="center"><b>Tech Stack</b></h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git,vscode,figma,php,laravel,bootstrap,tailwind,mysql,notion,vue,discord,vscode,nodejs&perline=7" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git,vscode,figma,php,laravel,bootstrap,tailwind,mysql,notion,vue,discord,vscode,nodejs&perline=9" />
     </a>
 </p>
 
