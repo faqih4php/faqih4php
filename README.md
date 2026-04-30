@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/faqih4php/faqih4php/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/faqih4php/faqih4php/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
