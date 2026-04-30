@@ -24,7 +24,7 @@
 <hr style="height:10px">
 
 ###
-
+<h3 align="center"><b>Github Stats</b></h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=faqih4php&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=faqih4php&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -35,6 +35,8 @@
 <img src="https://raw.githubusercontent.com/faqih4php/faqih4php/refs/heads/main/github-user-contribution%20(1).svg" alt="Snake animation" />
 
 ###
+
+<h3 align="center"><b>Tech Stack</b></h3>
 
 ###
 <!--
