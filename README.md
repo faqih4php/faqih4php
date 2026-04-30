@@ -52,18 +52,25 @@
         </tr>
   </table>
 </div>
+
+###
+
+<hr style="height:8px">
+<h3 align="center"><b>My Trophy</b></h3>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faqih4php&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /><br>
     <img src="https://github-profile-trophy.vercel.app?username=faqih4php&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
+<hr style="height:8px">
+<h3 align="center"><b>My Contribution Graph</b></h3>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faqih4php&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /><br>
 <img src="https://raw.githubusercontent.com/faqih4php/faqih4php/refs/heads/main/github-user-contribution%20(1).svg" alt="Snake animation" />
+</div>
 
-###
-
-###
 <!--
 **faqih4php/faqih4php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
