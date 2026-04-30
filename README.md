@@ -1,14 +1,14 @@
 ![Abdullah Faqih Ma'ruf](github-header-banner.png)
 
 <hr style="height:8px">
-<h3 align="center" style=""><b>About Me 👀</b></h3>
+<h3 align="center" style=""><b>👀 About Me</b></h3>
     
 <p align="center">
     <img src="https://skillicons.dev/icons?i=laravel" style="height:20px;" />  I'm Fullstack Developer proficient in laravel<br>🚀  I want to persue my Software Engineer grade<br><img src="https://skillicons.dev/icons?i=htmx" style="height:20px;" />  Make an efficient features<br><img src="https://skillicons.dev/icons?i=devto" style="height:20px;" />  I have been a programmer for 2 years<br>🎧  Listening to spotify when coding is my booster feeling</p>
 </p>
 
 <hr style="height:8px">
-<h3 align="center"><b>Connect with me</b> ✉️</h3>
+<h3 align="center">🔗 <b>Connect with me</b></h3>
 
 <p align="center">
     <a href="https://www.instagram.com/faqihh.mr/"><img alt="" src="https://img.shields.io/badge/Instagram-CF4E92?style=flat&logo=instagram&logoColor=white"></a>
@@ -22,7 +22,7 @@
 </p>
 <hr style="height:8px">
 
-<h3 align="center"><b>Tech Stack</b></h3>
+<h3 align="center">🖥️<b>Tech Stack</b></h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git,vscode,figma,php,laravel,bootstrap,tailwind,mysql,notion,vue,discord,vscode,nodejs&perline=9" />
@@ -32,7 +32,7 @@
 <hr style="height:8px">
 
 ###
-<h3 align="center"><b>Github Stats</b></h3>
+<h3 align="center"><b>📊 Github Stats</b></h3>
 
 ###
 <div align="center">
@@ -56,7 +56,7 @@
 ###
 
 <hr style="height:8px">
-<h3 align="center"><b>My Trophy</b></h3>
+<h3 align="center">🏆 <b>My Trophy</b></h3>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app?username=faqih4php&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -64,7 +64,7 @@
 ###
 
 <hr style="height:8px">
-<h3 align="center"><b>My Contribution Graph</b></h3>
+<h3 align="center">📈 <b>My Contribution Graph</b></h3>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faqih4php&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /><br>
