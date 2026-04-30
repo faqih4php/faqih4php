@@ -20,6 +20,14 @@
     <a href="https://open.spotify.com/user/316wtxrd2bschhawm2vhlkpjqzem?si=15340120438d4a03"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/faqih4php/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
+<hr style="height:8px">
+
+<h3 align="center"><b>Tech Stack</b></h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,github,git,vscode,figma,php,laravel,bootstrap,tailwind,mysql,notion,vue,discord,vscode,nodejs&perline=7" />
+    </a>
+</p>
 
 <hr style="height:8px">
 
@@ -54,8 +62,6 @@
 <img src="https://raw.githubusercontent.com/faqih4php/faqih4php/refs/heads/main/github-user-contribution%20(1).svg" alt="Snake animation" />
 
 ###
-
-<h3 align="center"><b>Tech Stack</b></h3>
 
 ###
 <!--
