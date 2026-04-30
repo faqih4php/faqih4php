@@ -1,12 +1,13 @@
 ![Abdullah Faqih Ma'ruf](github-header-banner.png)
 
+<hr style="height:10px">
 <h3 align="center" style=""><b>About Me 👀</b></h3>
     
 <p align="center">
     <img src="https://skillicons.dev/icons?i=laravel" style="height:20px;" />  I'm Fullstack Developer proficient in laravel<br><img src="https://skillicons.dev/icons?i=rocket" style="height:20px;" />  I want to persue my Software Engineer grade<br><img src="https://skillicons.dev/icons?i=htmx" style="height:20px;" />  Make an efficient features<br><img src="https://skillicons.dev/icons?i=devto" style="height:20px;" />  I have been a programmer for 2 years<br>🎧  Listening to spotify when coding is my booster feeling</p>
 
-<hr style="height:8px">
-<p align="center"></p>
+<hr style="height:10px">
+<h3 align="center"><b>Connect with me</b></h3>
 <!--
 **faqih4php/faqih4php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
