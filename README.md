@@ -1,13 +1,13 @@
 ![Abdullah Faqih Ma'ruf](github-header-banner.png)
 
-<hr style="height:10px">
+<hr style="height:8px">
 <h3 align="center" style=""><b>About Me 👀</b></h3>
     
 <p align="center">
     <img src="https://skillicons.dev/icons?i=laravel" style="height:20px;" />  I'm Fullstack Developer proficient in laravel<br>🚀  I want to persue my Software Engineer grade<br><img src="https://skillicons.dev/icons?i=htmx" style="height:20px;" />  Make an efficient features<br><img src="https://skillicons.dev/icons?i=devto" style="height:20px;" />  I have been a programmer for 2 years<br>🎧  Listening to spotify when coding is my booster feeling</p>
 </p>
 
-<hr style="height:10px">
+<hr style="height:8px">
 <h3 align="center"><b>Connect with me</b> ✉️</h3>
 
 <p align="center">
@@ -21,12 +21,31 @@
     <a href="https://www.linkedin.com/in/faqih4php/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
-<hr style="height:10px">
+<hr style="height:8px">
 
 ###
 <h3 align="center"><b>Github Stats</b></h3>
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=faqih4php&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=faqih4php&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faqih4php&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" align="center">
+                <img src="https://streak-stats.demolab.com?user=faqih4php&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+            </td>
+        </tr>
+  </table>
+<div align="center">
+</div>
   <img src="https://github-profile-trophy.vercel.app?username=faqih4php&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
