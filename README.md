@@ -64,7 +64,7 @@
 ###
 
 <hr style="height:8px">
-<h3 align="center">📈 <b>My Contribution Graph</b></h3>
+<!-- <h3 align="center">📈 <b>My Contribution Graph</b></h3> -->
 
 <!-- <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faqih4php&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /><br> -->
